@@ -15,4 +15,4 @@ Then push to the repo:
 ## Using libraries
 
 To use libraries, include this repo along with your others by adding the url:
-`https://rawgit.com/divisionind/maven/repo`
+`https://raw.githubusercontent.com/divisionind/maven/repo`
