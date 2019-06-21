@@ -10,7 +10,7 @@ Once added, just track all the files and commit:
 `git add -A . && git commit -m "added library x"`
 
 Then push to the repo:
-`git push origin master`
+`git push origin repo`
 
 ## Using libraries
 
