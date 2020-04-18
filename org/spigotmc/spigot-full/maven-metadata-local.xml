@@ -3,11 +3,12 @@
   <groupId>org.spigotmc</groupId>
   <artifactId>spigot-full</artifactId>
   <versioning>
-    <release>1.15.1</release>
+    <release>1.15.2</release>
     <versions>
       <version>1.14.2</version>
       <version>1.15.1</version>
+      <version>1.15.2</version>
     </versions>
-    <lastUpdated>20191228005113</lastUpdated>
+    <lastUpdated>20200418014014</lastUpdated>
   </versioning>
 </metadata>
